@@ -165,11 +165,13 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "translate:Open translation view": false
     }
   },
-  "active": "2c56e215d93c5645",
+  "active": "2c6fec14e9efd7bc",
   "lastOpenFiles": [
+    "README.md",
     "CET-4.md",
     "未命名 1.md"
   ]

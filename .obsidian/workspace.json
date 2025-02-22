@@ -150,12 +150,23 @@
               "icon": "lucide-list",
               "title": "CET-4 的大纲"
             }
+          },
+          {
+            "id": "83d25bc6cf8c4bb4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -166,13 +177,16 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "translate:Open translation view": false
+      "translate:Open translation view": false,
+      "obsidian-git:Open Git source control": false,
+      "edge-tts:Read note aloud": false
     }
   },
-  "active": "2c6fec14e9efd7bc",
+  "active": "2c56e215d93c5645",
   "lastOpenFiles": [
-    "README.md",
+    "未命名.canvas",
     "CET-4.md",
+    "README.md",
     "未命名 1.md"
   ]
 }

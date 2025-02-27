@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "错词本.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "错词本"
             }
           }
         ],
@@ -198,9 +198,9 @@
   },
   "active": "5fd0bcdbb300e420",
   "lastOpenFiles": [
+    "README.md",
     "错词本.md",
     "CET-4.md",
-    "README.md",
     "未命名.canvas",
     "未命名 1.md"
   ]

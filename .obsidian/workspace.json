@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0ab4397c8f9351bf",
+        "id": "c3884eed40bb4e70",
         "type": "tabs",
         "children": [
           {
-            "id": "5fd0bcdbb300e420",
+            "id": "f7c6bbec2caa47ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "错词本.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "错词本"
+              "title": "新标签页"
             }
           }
         ]
@@ -78,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "389e68d6421cd0a3",
@@ -181,10 +178,10 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "5fd0bcdbb300e420",
+  "active": "f7c6bbec2caa47ee",
   "lastOpenFiles": [
-    "CET-4.md",
     "错词本.md",
+    "CET-4.md",
     "README.md",
     "未命名.canvas",
     "未命名 1.md"

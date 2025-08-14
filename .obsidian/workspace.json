@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "信创智安哨——脚本（55分钟）"
             }
+          },
+          {
+            "id": "13109e7ebff5f378",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +195,7 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "f7c6bbec2caa47ee",
+  "active": "13109e7ebff5f378",
   "lastOpenFiles": [
     "信创智安哨——脚本（55分钟）.md",
     "错词本.md",

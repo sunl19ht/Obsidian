@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "机密0号稿，世校赛获奖宝典"
             }
+          },
+          {
+            "id": "55e1a66a2a3f0fd9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,6 +184,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -181,7 +195,7 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "c496f22f1cd8026d",
+  "active": "55e1a66a2a3f0fd9",
   "lastOpenFiles": [
     "Pasted image 20250824101351.png",
     "信创智安哨——脚本（55分钟）.md",

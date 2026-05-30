@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 2.md",
+                "file": "八股文.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名 2"
+              "title": "八股文"
             }
           }
         ]
@@ -185,10 +185,13 @@
   },
   "active": "cfb52219e85f58b4",
   "lastOpenFiles": [
-    "未命名 2.md",
+    "未命名.base",
+    "未命名 2.base",
+    "未命名.md",
+    "未命名 1.base",
+    "八股文.md",
     "信创智安哨小剧场对话.md",
     "未命名 1.md",
-    "未命名.md",
     "小剧场.md",
     "机密0号稿，世校赛获奖宝典.md",
     "Pasted image 20250824101351.png",

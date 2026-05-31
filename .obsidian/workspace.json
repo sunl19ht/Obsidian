@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "八股文"
             }
+          },
+          {
+            "id": "b3e0110360a6ed69",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,7 +185,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -183,7 +196,7 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "cfb52219e85f58b4",
+  "active": "b3e0110360a6ed69",
   "lastOpenFiles": [
     "未命名.base",
     "未命名 2.base",

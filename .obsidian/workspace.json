@@ -33,8 +33,7 @@
               "title": "版本说明 1.12.7"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +195,7 @@
       "edge-tts:Read note aloud": false
     }
   },
-  "active": "b3e0110360a6ed69",
+  "active": "cfb52219e85f58b4",
   "lastOpenFiles": [
     "未命名.base",
     "未命名 2.base",
